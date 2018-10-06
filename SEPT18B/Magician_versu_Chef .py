@@ -1,3 +1,4 @@
+# This Code was a successful solution in the contest.
 for i in range(int(input())):
     n,x,s=map(int,input().split())
     ans=x
